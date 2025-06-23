@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Walizada</h1>
+<h1 align="center">👋 Hi, I’m Walizadah</h1>
 <h3 align="center">🌟 A passionate Full-Stack & Mobile Developer specializing in Flutter</h3>
 
 ---
@@ -70,6 +70,7 @@
 ### 📊 GitHub Stats
 
 ![Walizada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Walizada300&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walizada300&layout=compact&theme=tokyonight)
 
 ---
