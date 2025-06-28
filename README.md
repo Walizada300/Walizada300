@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Walizadah!;Mobile+%26+Full-stack+Developer;Flutter+is+my+superpower!;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Walizadah!;Mobile+%26+Full-stack+Developer;Flutter+is+my+superpower!;Now+learning+Swift+%26+SwiftUI" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Walizadah</h1>
-<h3 align="center">🚀 A Passionate Full-Stack & Mobile Developer Specializing in Flutter</h3>
+<h3 align="center">🚀 A Passionate Full-Stack & Mobile Developer Specializing in Flutter and Swift</h3>
 
 ---
 
 ### 👀 About Me
 
 - 🎯 **Focus**: Building seamless and user-friendly mobile & web applications  
-- 🌱 **Currently Learning**: Advanced Flutter, Clean Architecture, and system design  
+- 🌱 **Currently Learning**: SwiftUI, Advanced Flutter, Clean Architecture, Swift & SwiftUI  
 - 🚀 **Goals**: To contribute to impactful open-source projects and grow with an active dev community  
 
 ---
 
 ### 💞️ Looking to Collaborate On
 
-- 🔧 **Open-source Flutter & Full-Stack Projects**  
+- 🔧 **Open-source Flutter, Swift & Full-Stack Projects**  
 - 💡 Innovative ideas in **mobile-first** and **cross-platform** development  
 
 ---
@@ -42,6 +42,8 @@
 **Languages & Frameworks**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-4497DF?style=flat-square&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
