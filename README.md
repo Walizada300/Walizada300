@@ -10,7 +10,7 @@
 ### 👀 About Me
 
 - 🎯 **Focus**: Building seamless and user-friendly mobile & web applications  
-- 🌱 **Currently Learning**: SwiftUI, Advanced Flutter, Clean Architecture, Swift & SwiftUI  
+- 🌱 **Currently Learning**: Advanced Flutter, Clean Architecture, Swift & SwiftUI  
 - 🚀 **Goals**: To contribute to impactful open-source projects and grow with an active dev community  
 
 ---
