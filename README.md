@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I’m Walizadah</h1>
 <h3 align="center">Developer of optimized and user-friendly applications</h3>
-> *"Flutter is my superpower!"*
+<em style="color: gray;">Flutter is my superpower!</em>
 
 ---
 
