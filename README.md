@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m Walizadah</h1>
-<h3 align="center">🚀 Developer of optimized and user-friendly applications</h3>
+<h3 align="center">Developer of optimized and user-friendly applications</h3>
+> *"Flutter is my superpower!"*
 
 ---
 
@@ -83,7 +84,7 @@
 
 ### ⚡ Fun Fact
 
-> *"I believe in “Code once, impact everywhere!” — solving real-world problems with clean, beautiful code."*
+> *"I believe in “Developer of fast, beautiful, and localized apps — where performance meets real user needs."*
 
 ---
 
