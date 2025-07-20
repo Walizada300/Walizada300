@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m Walizadah</h1>
-<h3 align="center">🚀 A Passionate Full-Stack & Mobile Developer Specializing in Flutter and Swift</h3>
+<h3 align="center">🚀 Developer of optimized and user-friendly applications</h3>
 
 ---
 
