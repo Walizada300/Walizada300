@@ -83,7 +83,7 @@
 
 ### ⚡ Fun Fact
 
-> *"I believe in “Developer of fast, beautiful, and localized apps — where performance meets real user needs."*
+> *"Life is not what you expect, but what you create yourself."*
 
 ---
 
