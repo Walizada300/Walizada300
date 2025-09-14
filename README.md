@@ -9,22 +9,27 @@
 
 ### 👀 About Me
 
-- 🎯 **Focus**: Building seamless and user-friendly mobile & web applications  
-- 🌱 **Currently Learning**: Advanced Flutter, Clean Architecture, Swift & SwiftUI  
-- 🚀 **Goals**: To contribute to impactful open-source projects and grow with an active dev community  
+- 💻 Passionate **Mobile & Web Developer** with a love for clean and efficient code  
+- 🎯 Focused on creating **seamless, optimized, and user-friendly applications**  
+- 📚 Currently diving deeper into **Flutter (Clean Architecture, Riverpod)** and exploring **Swift & SwiftUI**  
+- 🌍 Always eager to **learn, share knowledge, and grow with the dev community**  
 
 ---
 
 ### 💞️ Looking to Collaborate On
 
-- 🔧 **Open-source Flutter, Swift & Full-Stack Projects**  
-- 💡 Innovative ideas in **mobile-first** and **cross-platform** development  
+- 🚀 **Open-source projects** in Flutter, Swift, and full-stack development  
+- 💡 Creative ideas in **cross-platform solutions** and **mobile-first experiences**  
+- 🤝 Building **scalable applications** that make a real-world impact  
 
 ---
 
 ### 📱 Featured App
 
 📦 **Baxak** — Now on Google Play:  
+👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
+
+📦 **Tanasob BMI** - Now on Google Play:
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
 
 ---
@@ -84,6 +89,7 @@
 ### ⚡ Fun Fact
 
 > *"Life is not what you expect, but what you create yourself."*
+> *"زندگی آن چیزی نیست که انتظارش را داری، بلکه چیزی است که تو خلق می‌کنی."*
 
 ---
 
