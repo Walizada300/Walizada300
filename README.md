@@ -27,7 +27,7 @@
 ### 📱 Featured Apps
 
 💰 **Baxak** (Android) — Available on Google Play  
-Effortlessly manage **Income, Expenses, and Customer Accounts (Journal)** with a simple and intuitive interface.  
+> *Effortlessly manage **Income, Expenses, and Customer Accounts (Journal)** with a simple and intuitive interface.*
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
 
 🏋️ **Tanasob BMI (Android)** — Available on Google Play  
@@ -108,7 +108,6 @@ A **native Afghan keyboard** supporting **English, Dari, and Pashto** with smart
 ### ⚡ Fun Fact
 
 > *"Life is not what you expect, but what you create yourself."*
-> *"زندگی آن چیزی نیست که انتظارش را داری، بلکه چیزی است که تو خلق می‌کنی."*
 
 ---
 
