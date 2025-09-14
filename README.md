@@ -28,7 +28,7 @@
 
 📦 **Baxak** — Now on Google Play:  
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
-
+---
 📦 **Tanasob BMI** - Now on Google Play:
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
 
