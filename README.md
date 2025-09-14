@@ -24,13 +24,25 @@
 
 ---
 
-### 📱 Featured App
+### 📱 Featured Apps
 
-📦 **Baxak** — Now on Google Play:  
+💰 **Baxak (Android)** — Available on Google Play  
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
----
-📦 **Tanasob BMI** - Now on Google Play:
-👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
+
+🏋️ **Tanasob BMI (Android)** — Available on Google Play  
+👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.tanasob_bmi)
+
+📰 **RTA (Radio Television of Afghanistan) (Android)** — Available on Google Play  
+👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.media)
+
+📰 **RTA (Radio Television of Afghanistan) (iOS)** — Available on App Store  
+👉 [Download on App Store](https://apps.apple.com/af/app/rta-%D9%85%D9%84%DB%8C/id6744917508)
+
+📆 **Kaliza (Android)** — Available on Google Play  
+👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.kaliza)
+
+⌨️ **RTA Keyboard (iOS)** — Available on App Store (TestFlight)  
+👉 [Download on App Store](https://testflight.apple.com/join/fHFa4fmX)
 
 ---
 
