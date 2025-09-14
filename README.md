@@ -26,23 +26,30 @@
 
 ### 📱 Featured Apps
 
-💰 **Baxak (Android)** — Available on Google Play  
+💰 **Baxak** (Android) — Available on Google Play  
+Effortlessly manage **Income, Expenses, and Customer Accounts (Journal)** with a simple and intuitive interface.  
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
 
 🏋️ **Tanasob BMI (Android)** — Available on Google Play  
+Quickly **calculate BMI** and track your weight management goals with ease.  
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.tanasob_bmi)
 
-📰 **RTA (Radio Television of Afghanistan) (Android)** — Available on Google Play  
+📰 **RTA (Radio Television of Afghanistan)** (Android) — Available on Google Play  
+Access **live TV streams, news, and updates** from RTA in one powerful app.  
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.media)
 
-📰 **RTA (Radio Television of Afghanistan) (iOS)** — Available on App Store  
+📰 **RTA (Radio Television of Afghanistan)** (iOS) — Available on App Store  
+Stay connected with **RTA’s TV streams and latest news** directly on your iPhone or iPad.  
 👉 [Download on App Store](https://apps.apple.com/af/app/rta-%D9%85%D9%84%DB%8C/id6744917508)
 
-📆 **Kaliza (Android)** — Available on Google Play  
+📆 **Kaliza** (Android) — Available on Google Play  
+An **Afghan national calendar** featuring events, hadiths, Qibla compass, and **three calendar views**.  
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.kaliza)
 
-⌨️ **RTA Keyboard (iOS)** — Available on App Store (TestFlight)  
+⌨️ **RTA Keyboard** (iOS) — Available on App Store (TestFlight)  
+A **native Afghan keyboard** supporting **English, Dari, and Pashto** with smart features for effortless typing.  
 👉 [Download on App Store](https://testflight.apple.com/join/fHFa4fmX)
+
 
 ---
 
