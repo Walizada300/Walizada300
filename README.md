@@ -27,7 +27,7 @@
 ### 📱 Featured Apps
 
 💰 **Baxak** (Android) — Available on Google Play  
-Effortlessly manage **Income, Expenses, and Customer Accounts (Journal)** with a simple and intuitive interface.
+Effortlessly manage **Income, Expenses, and Customer Accounts (Journal)** with a simple and intuitive interface.   
 👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
 
 🏋️ **Tanasob BMI (Android)** — Available on Google Play  
