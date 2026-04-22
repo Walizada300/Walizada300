@@ -26,30 +26,29 @@
 
 ### 📱 Featured Apps
 
-💰 **Baxak** (Android) — Available on Google Play  
+💰 **Baxak** - Mobile App
 Effortlessly manage **Income, Expenses, and Customer Accounts (Journal)** with a simple and intuitive interface.   
-👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
+🤖 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.baxak)
+ [Download on App Store](https://apps.apple.com/no/app/baxak/id6759287628)
+🌐 [Baxak Website](http://baxak.pamircode.com)
 
-🏋️ **Tanasob BMI (Android)** — Available on Google Play  
-Quickly **calculate BMI** and track your weight management goals with ease.  
-👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.walizada.tanasob_bmi)
-
-📰 **RTA (Radio Television of Afghanistan)** (Android) — Available on Google Play  
+📰 **RTA (Radio Television of Afghanistan)** - Mobile App 
 Access **live TV streams, news, and updates** from RTA in one powerful app.  
-👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.media)
+🤖 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.media)
+ [Download on App Store](https://apps.apple.com/af/app/rta-%D9%85%D9%84%DB%8C/id6744917508)
+🌐 [Baxak Website](https://app.rta.af)
 
-📰 **RTA (Radio Television of Afghanistan)** (iOS) — Available on App Store  
-Stay connected with **RTA’s TV streams and latest news** directly on your iPhone or iPad.  
-👉 [Download on App Store](https://apps.apple.com/af/app/rta-%D9%85%D9%84%DB%8C/id6744917508)
-
-📆 **Kaliza** (Android) — Available on Google Play  
+📆 **Kaliza** (Android) — Mobile App 
 An **Afghan national calendar** featuring events, hadiths, Qibla compass, and **three calendar views**.  
-👉 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.kaliza)
+🤖 [Download on Play Store](https://play.google.com/store/apps/details?id=com.rta.kaliza)
+ [Download on App Store](https://apps.apple.com/us/app/%DA%A9%D9%84%DB%8C%D8%B2%D9%87/id6740469935)
+🌐 [Baxak Website](http://kaliza.rta.af)
 
-⌨️ **RTA Keyboard** (iOS) — Available on App Store (TestFlight)  
+⌨️ **RTA Keyboard** — Mobile App
 A **native Afghan keyboard** supporting **English, Dari, and Pashto** with smart features for effortless typing.  
-👉 [Download on App Store](https://testflight.apple.com/join/fHFa4fmX)
-
+🤖 [Download on Play Store](https://play.google.com/store/apps/details?id=com.etimadi.testkeyboard)
+ [Download on App Store](https://apps.apple.com/us/app/rta-keyboard/id6740760751)
+🌐 [Baxak Website](http://keyboard.rta.af)
 
 ---
 
